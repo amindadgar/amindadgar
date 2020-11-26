@@ -19,4 +19,5 @@ My main work is on android programming with kotlin but i can use python language
 I've done some work in in internet of things (node red server application) area and looking forward to do more.
 #### 📫 Here's some links to reach me:
 mail: dadgaramin96@gmail.com <br>
-telegram: [telegram](https://t.me/mramin22)
+telegram: [telegram](https://t.me/mramin22) <br>
+linkedIn: [my linkedin profile](https://www.linkedin.com/in/amin-dadgar-b59211181)
