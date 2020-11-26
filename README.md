@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### I'm amin and currently i'm student of computer software engineering.
 My main work is on android programming with kotlin but i can use python language too. <br>
-I've done some work in in internet of things (node red server application) area and looking forward to do more.
+I've done some work in internet of things (node red server application) area and looking forward to do more.
 #### 📫 Here's some links to reach me:
 mail: dadgaramin96@gmail.com <br>
 telegram: [telegram](https://t.me/mramin22) <br>
