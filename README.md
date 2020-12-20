@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 My main work is on android programming with kotlin but i can use python, C++ and Java language too. <br>
 I've done some work in internet of things (node red server application) area and looking forward to do more.
 #### 📫 Here's some links to reach me:
+twitter: [@mramin22](https://twitter.com/mramin22) <br>
 mail: dadgaramin96@gmail.com <br>
-telegram: [telegram](https://t.me/mramin22) <br>
-linkedIn: [my linkedin profile](https://www.linkedin.com/in/amin-dadgar-b59211181)
+linkedIn: [My linkedin profile](https://www.linkedin.com/in/amin-dadgar-b59211181) <br>
+telegram: [@mramin22](https://t.me/mramin22) <br>
+
