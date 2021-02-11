@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My main work is on android programming with kotlin but i can use python, C++ and JavaScript language too. <br>
 I've done some projects with Node js and express framework.<br>
 <!-- I've done some work in internet of things (node red server application) area and looking forward to do more.<br> -->
-Currently I'm working on Nodejs.
+<!-- Currently I'm working on Nodejs. -->
 #### 📫 Here's some links to reach me:
 twitter: [@mramin22](https://twitter.com/mramin22) <br>
 mail: dadgaramin96@gmail.com <br>
