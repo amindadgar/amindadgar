@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 #### I'm Mohammad Amin and currently I'm senior student of computer software engineering.
 I have worked as an android native programmer (with kotlin) and done some backend projects with node js in the past. <br>
-At the time I am working on two projects. One is my bachelor thesis and it aims using of datamining methods to classify cloth images. <br>
-The second that I'm working on it in my spare time is an IoT project and It is based on node-red platform. <br>
-I guess, I'm searching for my passion. 🙂
+At the time I am working on two projects. One is my bachelor thesis and it aims to use data mining methods to classify cloth images. <br>
+The second that I'm working on in my spare time is an IoT project based on node-red platform. <br>
+I guess I'm searching for my passion. 🙂
 #### 📫 Here's some links to reach me:
 twitter: [@mramin22](https://twitter.com/mramin22) <br>
 mail: dadgaramin96@gmail.com <br>
