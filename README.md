@@ -22,7 +22,7 @@ I guess I'm searching for my passion. 🙂
 #### 📫 Here's some links to reach me:
 twitter: [@mramin22](https://twitter.com/mramin22) <br>
 mail: dadgaramin96@gmail.com <br>
-linkedIn: [My linkedin profile](https://www.linkedin.com/in/amin-dadgar-b59211181) <br>
+linkedIn: [My linkedin profile](https://www.linkedin.com/in/mohammad-amin-dadgar-b59211181/) <br>
 telegram: [@mramin22](https://t.me/mramin22) <br>
 
 
