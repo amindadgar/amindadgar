@@ -25,9 +25,13 @@ mail: dadgaramin96@gmail.com <br>
 linkedIn: [My linkedin profile](https://www.linkedin.com/in/amin-dadgar-b59211181) <br>
 telegram: [@mramin22](https://t.me/mramin22) <br>
 
+
 #### 🖨 My social work
 Somtimes I post the things I like on medium: [amindadgar.medium.com](https://amindadgar.medium.com/)
 
 #### 💻 My language status on GitHub
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amindadgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### A beautiful Qoute 🥺
+###### Look deep into nature, and then you will understand everything better.
