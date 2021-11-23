@@ -26,7 +26,8 @@ telegram: [@mramin22](https://t.me/mramin22) <br>
 
 
 #### 🖨 My social work
-Somtimes I post the things I like on medium: [amindadgar.medium.com](https://amindadgar.medium.com/)
+Somtimes I post the things I like on medium: [amindadgar.medium.com](https://amindadgar.medium.com/) <br>
+Also I would like to share my learning staff with everybody. you can fine them in the telegram channel I've created [t.me/mramin22_jornal](https://t.me/mramin22_jornal)
 
 #### 💻 My language status on GitHub
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
