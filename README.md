@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm Mohammad Amin and currently I am a Computer Science with the field of Artificial Intelligence Masters degree student.
+#### I'm Mohammad Amin and currently I am a Computer Engineering with the field of Artificial Intelligence Masters degree student.
 I have worked as an android native programmer (with kotlin) and done some backend projects with node js in the past. <br>
 At the time beside my university courses I'm learning ML coding from the course https://datatalks.club/courses/2021-winter-ml-zoomcamp.html <br>
 Also I've done my bachelor thesis in the field of deep learning. It aims Deep learning methods to classify different kind of cloth images.
