@@ -14,15 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm Mohammad Amin and currently I am a Computer Engineering with the field of Artificial Intelligence Masters degree student.
-I have worked as an android native programmer (with kotlin) and done some backend projects with node js in the past. <br>
-At the time I am learning "Patter Recognition", "Neural Networks" and "Modeling & 3D Rendering" from my courses in university. Some of the exercises repository containing codes will be public after passing the courses. <br>
-Also I've done my bachelor thesis in the field of deep learning. It aims Deep learning methods to classify different kind of cloth images.
+#### I'm Mohammad Amin and currently I am a Computer Engineering with the field of Artificial Intelligence Masters degree student in Isfahan University.
+At the time my courses in University are "Machine Learning", "Fuzzy Systems", "Digital Image Processing" and "Seminar". My exercises repository containing codes and some handwritten papers, will be public after passing the courses. <br> 
+##### My past important project topics were:
+- *Neural Networks*: Building an object detection Face Mask detection model, Using TensorFlow Object detection API. (With the collaboration of Kiarash Sedghi https://github.com/keagleV)
+- *Pattern Recognition*: deploying Some types of Support Vector Machines model. (Medium Article Link: [various types of SVMs](https://amindadgar.medium.com/various-types-of-support-vector-machines-in-machine-learning-3a09ca465850), Codes are not public)
+- *Bachelor's Project*: Building a cloth classifier deep neural networks model using Keras API. (Codes are not publicly available)
+- *Alexy Grigorev Zoomcamp midterm*: Diabeties prediction System ([Diabeties Prediction System](https://github.com/amindadgar/MLZoomcamp-MidTerm-Project)) 
 #### 📫 Here's some links to reach me:
-twitter: [@mramin22](https://twitter.com/mramin22) <br>
-mail: dadgaramin96@gmail.com <br>
-linkedIn: [My linkedin profile](https://www.linkedin.com/in/mohammad-amin-dadgar-b59211181/) <br>
-telegram: [@mramin22](https://t.me/mramin22) <br>
+- mail: dadgaramin96@gmail.com <br>
+- linkedIn: [My linkedin profile](https://www.linkedin.com/in/mohammad-amin-dadgar-b59211181/) <br>
+- telegram: [@mramin22](https://t.me/mramin22) <br>
+- twitter: [@mramin22](https://twitter.com/mramin22) <br>
 
 
 #### 🖨 My social work
@@ -34,4 +37,4 @@ Also I would like to share my learning staff with everybody, So you can find the
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amindadgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### A beautiful Qoute
-After Everything, what is left is kindness. 🙂
+After Everything, what is left is kindness. slightly_smiling_face
