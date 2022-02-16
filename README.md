@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm Mohammad Amin and currently I am a Computer Engineering with the field of Artificial Intelligence Masters degree student in Isfahan University.
 At the time my courses in University are "Machine Learning", "Fuzzy Systems", "Digital Image Processing" and "Seminar". My exercises repository containing codes and some handwritten papers, will be public after passing the courses. <br> 
 ##### My past important project topics were:
-- *Neural Networks*: Building an object detection Face Mask detection model, Using TensorFlow Object detection API. (With the collaboration of Kiarash Sedghi https://github.com/keagleV)
+- *Neural Networks*: Building an object detection Face Mask detection model, Using TensorFlow Object detection API.
 - *Pattern Recognition*: deploying Some types of Support Vector Machines model. (Medium Article Link: [various types of SVMs](https://amindadgar.medium.com/various-types-of-support-vector-machines-in-machine-learning-3a09ca465850), Codes are not public)
 - *Bachelor's Project*: Building a cloth classifier deep neural networks model using Keras API. (Codes are not publicly available)
 - *Alexy Grigorev Zoomcamp midterm*: Diabeties prediction System ([Diabeties Prediction System](https://github.com/amindadgar/MLZoomcamp-MidTerm-Project)) 
