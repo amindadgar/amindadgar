@@ -33,7 +33,7 @@ The tecknologies that I'm mostly familiar with:
 - Git
 
 
-Also I've worked in the past with the tecknologies below:
+Also I've worked in the past with the technologies below:
 - Node Js
 - Node Red
 - Programming ESP8266
