@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm Mohammad Amin and currently I am learning Computer Engineering with the field of Artificial Intelligence Masters degree at Isfahan University.
-At the time my courses in University are "Machine Learning", "Fuzzy Systems", "Digital Image Processing" and "Seminar". My exercises repository containing codes and some handwritten papers, will be public after passing the courses. <br> 
+At the time I'm researching in the field of Explainable Artificial Intelligence to finalize my thesis topic. <br> 
+
 ***
 ##### My past highlighted project topics are:
 - *Fuzzy Systems*: Implement different methods of fuzzy systems from scratch in the its course exercise: [Fuzzy Systems](https://github.com/amindadgar/Fuzzy-Systems)
@@ -41,7 +42,7 @@ Also I've worked in the past with the technologies below:
 ***
 #### 📫 Here's some links to reach me:
 - mail: dadgaramin96@gmail.com <br>
-- linkedIn: [My linkedin profile](https://www.linkedin.com/in/mohammad-amin-dadgar-b59211181/) <br>
+- linkedIn: [linkedin.com/in/mramin22/](https://www.linkedin.com/in/mramin22/) <br>
 - telegram: [@mramin22](https://t.me/mramin22) <br>
 - twitter: [@mramin22](https://twitter.com/mramin22) <br>
 
