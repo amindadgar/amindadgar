@@ -19,9 +19,8 @@ At the time I'm researching in the field of Explainable Artificial Intelligence 
 
 ***
 ##### My past highlighted project topics are:
-- *Machine Learning*: Analysing the results for K-Fold cross validation method. [K-Fold-CV-Analysis](https://amindadgar.github.io/Dependency-Analysis-KFoldCrossValidation/)
+- *Machine Learning*: Analysing the dependency of fold accuracy and variances by re-implementing the article https://ieeexplore.ieee.org/abstract/document/8012491 as part of Machine-Learning Final Project course. codes: [K-Fold-CV-Analysis](https://amindadgar.github.io/Dependency-Analysis-KFoldCrossValidation/)
 - *Fuzzy Systems*: Implement different methods of fuzzy systems from scratch in the its course exercise: [Fuzzy Systems](https://github.com/amindadgar/Fuzzy-Systems)
-- *K-Fold Cross Validation Analysis*: Analysing the dependency of fold accuracy and variances by re-implementing the article https://ieeexplore.ieee.org/abstract/document/8012491 as part of Machine-Learning Final Project course
 - *Neural Networks*: Building an object detection Face Mask detection model, Using TensorFlow Object detection API.
 - *Pattern Recognition*: deploying Some types of Support Vector Machines model. (Medium Article Link: [various types of SVMs](https://amindadgar.medium.com/various-types-of-support-vector-machines-in-machine-learning-3a09ca465850), Codes are not public)
 - *Bachelor's Project*: Building a cloth classifier deep neural networks model using Keras API. (Codes are not publicly available)
