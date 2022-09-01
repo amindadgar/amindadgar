@@ -41,10 +41,10 @@ Also I've worked in the past with the technologies below:
 - Android programming with Kotlin
 ***
 #### 📫 Here's some links to reach me:
-- mail: dadgaramin96@gmail.com <br>
-- linkedIn: [linkedin.com/in/mramin22/](https://www.linkedin.com/in/mramin22/) <br>
-- telegram: [@mramin22](https://t.me/mramin22) <br>
-- twitter: [@mramin22](https://twitter.com/mramin22) <br>
+- Mail: dadgaramin96@gmail.com <br>
+- LinkedIn: [linkedin.com/in/mramin22/](https://www.linkedin.com/in/mramin22/) <br>
+- Discord: [mramin22#1669](https://discordapp.com/users/mramin22#1669) <br>
+- Twitter: [@mramin22](https://twitter.com/mramin22) <br>
 
 
 #### 🖨 My social works
