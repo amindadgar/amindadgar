@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm Mohammad Amin and currently I am learning Computer Engineering with the field of Artificial Intelligence Master's degree at Isfahan University.
-At the time I'm working on perturbation-based Explainable AI methods for my master's degree. <br>
-Also I have two course in this semester written below:
+At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis. <br>
+<!-- Also I have two course in this semester written below:
 - Evolutionary Computing
-- Speech Processing
+- Speech Processing -->
 
 ***
 ##### My past highlighted project topics are:
+- *explanations on xray images*: https://github.com/amindadgar/xray-image-explanations
+- *Evolutionary Computing*: Adversarial attacks using image filters on DenseNet121 model (transfer learning was done). [adversarial-attacks-on-image-filters](https://github.com/amindadgar/adversarial-attacks-using-image-filters)
 - *Machine Learning*: Analysing the dependency of fold accuracy and variances by re-implementing the article https://ieeexplore.ieee.org/abstract/document/8012491 as part of Machine-Learning Final Project course. codes: [K-Fold-CV-Analysis](https://amindadgar.github.io/Dependency-Analysis-KFoldCrossValidation/)
 - *Fuzzy Systems*: Implement different methods of fuzzy systems from scratch in the its course exercise: [Fuzzy Systems](https://github.com/amindadgar/Fuzzy-Systems)
 - *Neural Networks*: Building an object detection Face Mask detection model, Using TensorFlow Object detection API.
