@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm Mohammad Amin and currently I am learning Computer Engineering with the field of Artificial Intelligence Master's degree at Isfahan University.
-At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis. <br>
+At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis. <br> Also I've created a group named Cassandra AI that aims to share people's knowledge about AI staff. To visit our website: https://cass-ai.github.io/
 <!-- Also I have two course in this semester written below:
 - Evolutionary Computing
 - Speech Processing -->
