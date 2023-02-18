@@ -23,7 +23,8 @@ At the time I'm working on perturbation-based Explainable AI methods for my mast
 ***
 ##### My past highlighted project topics are:
 - *explanations on xray images*: https://github.com/amindadgar/xray-image-explanations
-- *Evolutionary Computing*: Adversarial attacks using image filters on DenseNet121 model (transfer learning was done). [adversarial-attacks-on-image-filters](https://github.com/amindadgar/adversarial-attacks-using-image-filters)
+- *Adversarial Attacks*: Adversarial attacks using image filters on DenseNet121 model (transfer learning was done). [adversarial-attacks-on-image-filters](https://github.com/amindadgar/adversarial-attacks-using-image-filters)
+- *Evolutionary Computing*: Optimizing different problems such as Vehicle Routing Problem (VRP), Neural Architecture Search (NAS) and Multi-Objective VRP using Evolutionary Strategies. [implementation-of-exercises](https://github.com/amindadgar/Evolutionary-Computing)
 - *Machine Learning*: Analysing the dependency of fold accuracy and variances by re-implementing the article https://ieeexplore.ieee.org/abstract/document/8012491 as part of Machine-Learning Final Project course. codes: [K-Fold-CV-Analysis](https://amindadgar.github.io/Dependency-Analysis-KFoldCrossValidation/)
 - *Fuzzy Systems*: Implement different methods of fuzzy systems from scratch in the its course exercise: [Fuzzy Systems](https://github.com/amindadgar/Fuzzy-Systems)
 - *Neural Networks*: Building an object detection Face Mask detection model, Using TensorFlow Object detection API.
