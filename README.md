@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm Mohammad Amin and currently I am learning Computer Engineering with the field of Artificial Intelligence Master's degree at Isfahan University.
-At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis. <br> Also I've created a group named Cassandra AI that aims to share people's knowledge about AI staff. To visit our website: https://cass-ai.github.io/
+At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis. Also I'm learning new technologies in data engineering to prepare myself for available jobs. <br> With the help of my university colleagues, I've created a group named Cassandra AI that aims to share people's knowledge about AI staff. To visit our website: https://cass-ai.github.io/ (we've done two phase of article reading each with 5 meetings, and at the time, we're mostly occupied with other projects but planning for new amazing staff for it)
 <!-- Also I have two course in this semester written below:
 - Evolutionary Computing
 - Speech Processing -->
@@ -33,9 +33,12 @@ At the time I'm working on perturbation-based Explainable AI methods for my mast
 - *Alexy Grigorev Zoomcamp midterm*: Diabeties prediction System ([Diabeties Prediction System](https://github.com/amindadgar/MLZoomcamp-MidTerm-Project)) 
 
 #### Teck Stacks
-The tecknologies that I'm mostly familiar with:
+The tecknologies that I'm familiar with:
 - Python
-- SQL
+- SQL, Neo4j
+  - And worked a bit with mongoDB database
+- Flask 
+  - Done some minimal projects with it, but it's really easy for me to learn more.
 - Latex
 - Git
 
@@ -43,7 +46,7 @@ The tecknologies that I'm mostly familiar with:
 Also I've worked in the past with the technologies below:
 - Node Js
 - Node Red
-- Programming ESP8266
+- Programming arduino boards such as ESP8266
 - Android programming with Kotlin
 ***
 #### 📫 Here's some links to reach me:
