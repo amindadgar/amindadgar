@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm Mohammad Amin and currently I am learning Computer Engineering with the field of Artificial Intelligence Master's degree at Isfahan University.
-At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis. Also I'm learning new technologies in data engineering to prepare myself for available jobs. <br> With the help of my university colleagues, I've created a group named Cassandra AI that aims to share people's knowledge about AI staff. To visit our website: https://cass-ai.github.io/ (we've done two phase of article reading each with 5 meetings, and at the time, we're mostly occupied with other projects but planning for new amazing staff for it)
-<!-- Also I have two course in this semester written below:
-- Evolutionary Computing
-- Speech Processing -->
+At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis, Also I'm working as a data analyst in [TogetherCrew](https://togethercrew.com/). <br> With the help of my university colleagues, I've created a group named Cassandra AI that aims to share people's knowledge about AI staff. To visit our website: https://cass-ai.github.io/ (we've done two phase of article reading each with 5 meetings, and at the time, we're mostly occupied with other projects but planning for new amazing staff)
 
 ***
 ##### My past highlighted project topics are:
@@ -35,8 +32,8 @@ At the time I'm working on perturbation-based Explainable AI methods for my mast
 #### Teck Stacks
 The tecknologies that I'm familiar with:
 - Python
-- SQL, Neo4j
-  - And worked a bit with mongoDB database
+- SQL, Neo4j, MongoDB
+- RabbitMQ
 - Flask 
   - Done some minimal projects with it, but it's really easy for me to learn more.
 - Latex
@@ -60,9 +57,9 @@ Also I've worked in the past with the technologies below:
 Somtimes I post the things I like on medium: [amindadgar.medium.com](https://amindadgar.medium.com/) <br>
 Also I would like to share my learning staff with everybody, So you can find them in the telegram channel that I've created [t.me/mramin22_journal](https://t.me/mramin22_journal)
 
-#### 💻 My language status on GitHub
+<!-- #### 💻 My GitHub Stats -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amindadgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amindadgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### A beautiful Qoute
 After Everything, what is left is kindness, So don't hesitate to help others. :slightly_smiling_face:
