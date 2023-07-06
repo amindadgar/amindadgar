@@ -14,8 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm Mohammad Amin and currently I am learning Computer Engineering with the field of Artificial Intelligence Master's degree at Isfahan University.
-At the time I'm working on perturbation-based Explainable AI methods for my master's degree thesis, Also I'm working as a data analyst in [TogetherCrew](https://togethercrew.com/). <br> With the help of my university colleagues, I've created a group named Cassandra AI that aims to share people's knowledge about AI staff. To visit our website: https://cass-ai.github.io/ (we've done two phase of article reading each with 5 meetings, and at the time, we're mostly occupied with other projects but planning for new amazing staff)
+#### I'm Amin, it's nice to meet you 
+- Current Stats
+  - Artificial Intelligence Master's degree student.
+    - Thesis topic: Perturbation-based XAI methods
+  - Data Analyst at [TogetherCrew](https://togethercrew.com/)
+- Volunteer work
+  -  Built Cassandra Group
+    - Aiming to share about AI staff
+      - Web page: https://cass-ai.github.io/
+      - Youtube page: https://www.youtube.com/@cassandraai
+      - GitHub Page: https://github.com/cass-ai
+      - Stats:
+        1. Two phase of article reading was done with each had 5 meetings.
+        2. A conference on 29th and 30th of May 2022 was taken place
+        3. Planning for new amazing staff in future ... 😃🎉
 
 ***
 ##### My past highlighted project topics are:
@@ -30,23 +43,24 @@ At the time I'm working on perturbation-based Explainable AI methods for my mast
 - *Alexy Grigorev Zoomcamp midterm*: Diabeties prediction System ([Diabeties Prediction System](https://github.com/amindadgar/MLZoomcamp-MidTerm-Project)) 
 
 #### Teck Stacks
-The tecknologies that I'm familiar with:
+The technologies that I'm familiar with:
 - Python
 - SQL, Neo4j, MongoDB
 - RabbitMQ
+  - worked with pika python library
 - Flask 
-  - Done some minimal projects with it, but it's really easy for me to learn more.
+  - Did some minimal projects with it, but it's really easy for me to learn more.
 - Latex
 - Git
 
 
-Also I've worked in the past with the technologies below:
+Also, I've worked in the past with the technologies below:
 - Node Js
-- Node Red
-- Programming arduino boards such as ESP8266
+- Node-Red
+- Programming Arduino boards such as ESP8266
 - Android programming with Kotlin
 ***
-#### 📫 Here's some links to reach me:
+#### 📫 Here are some links to reach me:
 - Mail: dadgaramin96@gmail.com <br>
 - LinkedIn: [linkedin.com/in/mramin22/](https://www.linkedin.com/in/mramin22/) <br>
 - Discord: [mramin22#1669](https://discordapp.com/users/mramin22#1669) <br>
@@ -60,6 +74,9 @@ Also I would like to share my learning staff with everybody, So you can find the
 <!-- #### 💻 My GitHub Stats -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amindadgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+#### 💻 My GitHub Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amindadgar)](https://github.com/LordDashMe/github-contribution-stats/)
 
 #### A beautiful Qoute
 After Everything, what is left is kindness, So don't hesitate to help others. :slightly_smiling_face:
