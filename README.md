@@ -50,15 +50,12 @@ The technologies that I'm familiar with:
   - worked with pika python library
 - Flask 
   - Did some minimal projects with it, but it's really easy for me to learn more.
+- Docker
+  - Dockerized different services and libraries 
 - Latex
 - Git
 
 
-Also, I've worked in the past with the technologies below:
-- Node Js
-- Node-Red
-- Programming Arduino boards such as ESP8266
-- Android programming with Kotlin
 ***
 #### 📫 Here are some links to reach me:
 - Mail: dadgaramin96@gmail.com <br>
