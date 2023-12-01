@@ -28,8 +28,6 @@ Here are some ideas to get you started:
       - Stats:
         1. Two phase of article reading was done with each had 5 meetings.
         2. A conference on 29th and 30th of May 2022 was taken place
-        3. Planning for new amazing staff in future ... 😃🎉
-
 ***
 ##### My past highlighted project topics are:
 - *explanations on xray images*: https://github.com/amindadgar/xray-image-explanations
