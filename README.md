@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 -->
 #### I'm Amin, it's nice to meet you 
 - Current Stats
-  - Artificial Intelligence Master's degree student.
-    - Thesis topic: Perturbation-based XAI methods
-  - Data Analyst at [TogetherCrew](https://togethercrew.com/)
+  - Data Scientist at [TogetherCrew](https://togethercrew.com/)
 - Volunteer work
-  -  Built Cassandra Group
+  -  Built Cassandra Group during Masters degree
     - Aiming to share about AI staff
       - Web page: https://cass-ai.github.io/
       - Youtube page: https://www.youtube.com/@cassandraai
       - GitHub Page: https://github.com/cass-ai
       - Stats:
-        1. Two phase of article reading was done with each had 5 meetings.
+        1. Two phases of article reading were done with each having 5 meetings.
         2. A conference on 29th and 30th of May 2022 was taken place
 ***
-##### My past highlighted project topics are:
+##### My past research project highlights are:
 - *explanations on xray images*: https://github.com/amindadgar/xray-image-explanations
 - *Adversarial Attacks*: Adversarial attacks using image filters on DenseNet121 model (transfer learning was done). [adversarial-attacks-on-image-filters](https://github.com/amindadgar/adversarial-attacks-using-image-filters)
 - *Evolutionary Computing*: Optimizing different problems such as Vehicle Routing Problem (VRP), Neural Architecture Search (NAS) and Multi-Objective VRP using Evolutionary Strategies. [implementation-of-exercises](https://github.com/amindadgar/Evolutionary-Computing)
@@ -42,14 +40,16 @@ Here are some ideas to get you started:
 
 #### Teck Stacks
 The technologies that I'm familiar with:
-- Python
-- SQL, Neo4j, MongoDB
+- Python (+ Test Driven Development)
+- PostgreSql, Neo4j, MongoDB databases
 - RabbitMQ
-  - worked with pika python library
+  - Writing python microservices
+- Apache Airflow
+  - Writing ETL process scripts
+- Docker
+  - Dockerized different services and libraries
 - Flask 
   - Did some minimal projects with it, but it's really easy for me to learn more.
-- Docker
-  - Dockerized different services and libraries 
 - Latex
 - Git
 
@@ -61,11 +61,11 @@ The technologies that I'm familiar with:
 - Discord: [mramin22#1669](https://discordapp.com/users/mramin22#1669) <br>
 - Twitter: [@mramin22](https://twitter.com/mramin22) <br>
 
-
+<!--
 #### 🖨 My social works
 Somtimes I post the things I like on medium: [amindadgar.medium.com](https://amindadgar.medium.com/) <br>
 Also I would like to share my learning staff with everybody, So you can find them in the telegram channel that I've created [t.me/mramin22_journal](https://t.me/mramin22_journal)
-
+-->
 <!-- #### 💻 My GitHub Stats -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amindadgar)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amindadgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
