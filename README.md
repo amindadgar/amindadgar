@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### I'm Amin, it's nice to meet you 
 - Current Stats
-  - Data Scientist at [TogetherCrew](https://togethercrew.com/)
+  - Data Scientist at [TogetherCrew](https://togethercrew.com/) specializing in Large Language Models
 - Volunteer work
   -  Built Cassandra Group during Masters degree
     - Aiming to share about AI staff
@@ -43,11 +43,8 @@ The technologies that I'm familiar with:
 - Python (+ Test Driven Development)
 - PostgreSql, Neo4j, MongoDB databases
 - RabbitMQ
-  - Writing python microservices
 - Apache Airflow
-  - Writing ETL process scripts
 - Docker
-  - Dockerized different services and libraries
 - Flask 
   - Did some minimal projects with it, but it's really easy for me to learn more.
 - Latex
