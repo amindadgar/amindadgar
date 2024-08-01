@@ -27,7 +27,24 @@ Here are some ideas to get you started:
         1. Two phases of article reading were done with each having 5 meetings.
         2. A conference on 29th and 30th of May 2022 was taken place
 ***
-##### My past research project highlights are:
+### Projects Highlights
+
+#### Hivemind-Bot — LLM
+Developed a RAG pipeline that ingests data from various platforms and generates responses based on the data. Listened on a message broker to receive messages, performed RAG operations on the data, and sent the responses to another microservice via the broker. [Link to codes](https://github.com/TogetherCrew/hivemind-bot)
+
+#### Hivemind-ETL — Data Pipeline, LLM
+A set of ETL scripts to embed raw data For RAG pipeline. The scripts were written on Apache Airflow service and they included both raw data processing and summary data. [Link to codes](https://github.com/TogetherCrew/airflow-dags/)
+
+#### Platform Data Transformation — Data Pipeline
+Multiple sets of ETL scripts written as Apache Airflow DAGs to transform any platform data to a general data structure that could be used for many tasks such as Analytics, Text Classification, and Embedding ETLs. [Link to codes](https://github.com/TogetherCrew/airflow-dags/)
+
+#### Violation Detection — Data Pipeline, LLM
+Fine-tuned a Large Language Model (LLM) to classify text messages for detecting violations. Developed pipelines to prompt the fine-tuned model for message labeling and to fire violation reports to another microservice via a broker. [Link to codes](https://github.com/TogetherCrew/airflow-dags/)
+
+#### TC-Analyzer — Data Pipeline, Python Library
+Developed a Python library for custom analytics on data from various platforms. The library categorized members based on their community activity and performed graph analytics. [Link to codes](https://github.com/TogetherCrew/tc_analyzer_lib)
+
+<!-- ### Research Project Highlights
 - *explanations on xray images*: https://github.com/amindadgar/xray-image-explanations
 - *Adversarial Attacks*: Adversarial attacks using image filters on DenseNet121 model (transfer learning was done). [adversarial-attacks-on-image-filters](https://github.com/amindadgar/adversarial-attacks-using-image-filters)
 - *Evolutionary Computing*: Optimizing different problems such as Vehicle Routing Problem (VRP), Neural Architecture Search (NAS) and Multi-Objective VRP using Evolutionary Strategies. [implementation-of-exercises](https://github.com/amindadgar/Evolutionary-Computing)
@@ -38,8 +55,10 @@ Here are some ideas to get you started:
 - *Bachelor's Project*: Building a cloth classifier deep neural networks model using Keras API. (Codes are not publicly available)
 - *Alexy Grigorev Zoomcamp midterm*: Diabeties prediction System ([Diabeties Prediction System](https://github.com/amindadgar/MLZoomcamp-MidTerm-Project)) 
 
-#### Teck Stacks
-The technologies that I'm familiar with:
+
+-->
+
+### Teck Stack
 - Python (+ Test Driven Development)
 - PostgreSql, Neo4j, MongoDB databases
 - RabbitMQ
