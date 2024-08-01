@@ -59,13 +59,12 @@ Developed a Python library for custom analytics on data from various platforms. 
 -->
 
 ### Teck Stack
-- Python (+ Test Driven Development)
+- Python
 - PostgreSql, Neo4j, MongoDB databases
 - RabbitMQ
 - Apache Airflow
 - Docker
 - Flask 
-  - Did some minimal projects with it, but it's really easy for me to learn more.
 - Latex
 - Git
 
