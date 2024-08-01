@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### I'm Amin, it's nice to meet you 
 - Current Stats
-  - Data Scientist at [TogetherCrew](https://togethercrew.com/) specializing in Large Language Models
+  - Data Engineer at [TogetherCrew](https://togethercrew.com/) specializing in Large Language Models
 - Volunteer work
   -  Built Cassandra Group during Masters degree
     - Aiming to share about AI staff
