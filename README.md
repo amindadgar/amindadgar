@@ -26,6 +26,7 @@ Here are some ideas to get you started:
       - Stats:
         1. Two phases of article reading were done with each having 5 meetings.
         2. A conference on 29th and 30th of May 2022 was taken place
+  - Established an AI Community Group on Novermber 2024, dedicated to sharing the most up-to-date AI knowledge with a production-focused perspective Every week.
 ***
 ### Projects Highlights
 
