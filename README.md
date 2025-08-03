@@ -2,57 +2,65 @@
 
 #### I'm Amin — nice to meet you!
 
-I’m currently an **AI Engineer at [TogetherCrew](https://github.com/togetherCrew/)**, where I work on data systems that support decentralized communities.
+I’m an **AI Engineer at [TogetherCrew](https://github.com/togetherCrew/)**, where I build data pipelines and LLM-powered systems to support decentralized online communities.
 
 ---
 
-### 🚀 Volunteer Work
+### 💼 What I Work On
 
-* **Co-Founder, AI Community Group** (Nov 2024 – Present)
-  Started a weekly meetup series exploring production-grade AI topics including LLMs, RAG pipelines, multi-agent systems, and prompt engineering.
-  🌐 [Website](https://ai-community-v2.vercel.app/)
-
-* **Co-Founder, Cassandra AI Group** (Oct 2021 – Oct 2023)
-  Led an academic AI community during my Master’s program, focused on accessible, research-driven content.
-  Highlights:
-
-  * Organized two reading phases (5 sessions each)
-  * Hosted exam prep review sessions
-  * Ran a community AI conference (May 29–30, 2022)
-    🌐 [Website](https://cass-ai.github.io) | [YouTube](https://www.youtube.com/@cassandraai) | [GitHub](https://github.com/cass-ai)
+* Designing **retrieval-augmented generation (RAG)** systems using `llama-index`, with persistent caching, data deduplication, and relevance-based embedding logic.
+* Creating **ETL pipelines** that handle large-scale community data across multiple platforms using `Apache Airflow` and `Temporal`. I implement optimizations like indexing only the latest data and deduplicating via hash comparison.
+* Evaluating LLM outputs with custom **RAG evaluation metrics** including *coverage*, *relevance*, and *confidence scoring*.
+* Developing **LLM agents** using `LangChain` and `CrewAI` for orchestrated multi-agent tasks.
+* Continuously improving data quality and pipeline efficiency by investigating upstream community behavior data and pushing for tighter integration across microservices.
 
 ---
 
-### 🧠 Project Highlights
+### 🧠 Projects
 
-#### 🔹 [Hivemind-Bot](https://github.com/TogetherCrew/hivemind-bot) — LLM, RAG Pipeline
+#### 🔹 [Hivemind-Bot](https://github.com/TogetherCrew/hivemind-bot) — RAG System, LLM
 
-Built a message-driven RAG system that ingests data from multiple platforms, generates context-aware responses, and routes results via microservices.
+Message-driven system that performs retrieval over embedded organizational data to generate LLM-based responses. Communicates with other services via broker queues.
 
-#### 🔹 [Hivemind-ETL](https://github.com/TogetherCrew/airflow-dags/) — ETL, Apache Airflow
+#### 🔹 [Hivemind-ETL](https://github.com/TogetherCrew/airflow-dags/) — ETL, Caching
 
-Created ETL scripts to embed and summarize raw data for the RAG pipeline. Implemented on Apache Airflow to automate both data preparation and transformation.
+ETL DAGs using `Apache Airflow` for data embedding and summarization. Includes **caching mechanisms** to avoid redundant embeddings and **indexing strategies** based on timestamped persistence.
 
-#### 🔹 [Platform Data Transformation](https://github.com/TogetherCrew/airflow-dags/) — ETL, Analytics
+#### 🔹 [Temporal Worker](https://github.com/TogetherCrew/temporal-worker-python) — Workflow Orchestration & Data Processing
+Implemented scalable, fault-tolerant workflows using Temporal for orchestrating asynchronous data processing tasks. Features include data deduplication via hashing, ETL orchestration, message brokering, and seamless integration with microservices for real-time event-driven pipelines.
 
-Developed general-purpose Airflow DAGs to transform platform-specific data into a unified structure for analytics, classification, and embedding tasks.
+#### 🔹 [Violation Detection](https://github.com/TogetherCrew/airflow-dags/) — LLM Classification
 
-#### 🔹 [Violation Detection](https://github.com/TogetherCrew/airflow-dags/) — LLM, Text Classification
+Fine-tuned a custom LLM to detect community violations in messages. Built pipelines for classification and automated reporting.
 
-Fine-tuned an LLM to detect policy violations in text messages. Built pipelines for classification and alert routing through message brokers.
+#### 🔹 [Agents Workflow](https://github.com/TogetherCrew/agents-workflow) — CrewAI, LangChain
 
-#### 🔹 [TC-Analyzer Library](https://github.com/TogetherCrew/tc_analyzer_lib) — Python, Analytics
+Developed multi-agent LLM apps using `CrewAI` and `LangChain`, focused on community data analysis and dynamic decision-making tasks.
 
-Designed a Python library to analyze community behavior, classify user roles, and perform graph analytics on multi-platform data.
+#### 🔹 [TC-Analyzer](https://github.com/TogetherCrew/tc_analyzer_lib) — Analytics Library
+
+Python library for behavioral analytics on community members. Features graph analytics and activity-based segmentation.
 
 ---
 
-### 🛠 Tech Stack
+### 🧰 Tech Stack
 
 * **Languages:** Python, LaTeX
 * **Databases:** Qdrant, PostgreSQL, Neo4j, MongoDB
-* **Messaging & Orchestration:** [Temporal](https://temporal.io/), [Apache Airflow](https://airflow.apache.org/), RabbitMQ
-* **Tools & Frameworks:** Docker, Flask, Git
+* **Messaging & Workflow:** RabbitMQ, Apache Airflow, Temporal
+* **Frameworks & Tools:** Docker, Flask, llama-index, LangChain, CrewAI, Git
+
+---
+
+### 🙌 Volunteer Work
+
+* **Co-Founder, AI Community Group** (Nov 2024 – Present)
+  Host a weekly AI series covering topics like LLMs, RAG pipelines, agent systems, and prompt engineering.
+  🌐 [Website](https://ai-community-v2.vercel.app/)
+
+* **Co-Founder, Cassandra AI Group** (Oct 2021 – Oct 2023)
+  Ran an academic AI community with a focus on accessible ML research and student support. Organized workshops, study sessions, and a two-day conference.
+  🌐 [Website](https://cass-ai.github.io) | [YouTube](https://www.youtube.com/@cassandraai) | [GitHub](https://github.com/cass-ai)
 
 ---
 
